@@ -4,7 +4,6 @@
 
 A TamperMonkey script to add sort options to js13k entries pages.
 
-The random sort uses a seed that is stored in local storage so the order
-is maintained across page reloads and browser restarts, the visitor will
-not lose track.
-
+The random sort uses a seed that is stored in local storage, just as the
+selected sort mode, so the order is maintained across page reloads and
+browser restarts, the visitor will not lose track.
